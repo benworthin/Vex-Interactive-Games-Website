@@ -1,0 +1,24 @@
+/*@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700')*/
+
+* {
+    font-family: monospace;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(Assets/websiteBackgroundResized.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+#webpageHeader {
+    background-color: gray;
+    color: black;
+    font-size: 70px;
+    float: right;
+    margin-top: 200px;
+}
